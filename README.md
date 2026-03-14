@@ -13,7 +13,6 @@ Stock prices were retrieved via an API, while revenue data was extracted through
 
 The final result is an interactive visualization showing the relationship between stock prices and company revenue over time.
 
-![Tesla vs GameStop Visualization](tesla_gme_plot.png)
 ---
 
 ## Data Sources
